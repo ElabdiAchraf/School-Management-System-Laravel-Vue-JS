@@ -2,6 +2,18 @@
 
 The main objective of this project is the development of a service-oriented web application based on a REST API architecture to ensure proper School Management System
 
+**Tools:** 
+ - Laravel 8
+ - Rest API
+ - VueJs 3
+ - VueX
+ - Javascript,
+ - PHP 7,
+ - JSON,
+ - MySQL,
+ - JWT
+ - UML
+
 **SCREENSHOTS** 
 
 **Dashboard**
